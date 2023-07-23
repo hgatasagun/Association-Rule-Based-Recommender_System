@@ -1,6 +1,6 @@
-# Association_Rule_Based_Recommender_System
+# Association Rule Based Product Recommendations for Online Retail Customers
 
-![Alternatif Metin](https://media.marketrealist.com/brand-img/DhReKnD5j/0x0/uploads/2019/10/online-retailers.jpg)
+![Alternatif Metin](https://www.liveadmins.com/wp-content/uploads/2018/05/Online-Retailers.jpg)
 
 Below are the basket information of 3 different users. Make product recommendations for these baskets using the association rule. The product recommendations can be one or more. Derive the decision rules based on the 2010-2011 Germany customers.
 
