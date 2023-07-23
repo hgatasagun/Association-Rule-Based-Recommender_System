@@ -12,11 +12,11 @@ Below are the basket information of 3 different users. Make product recommendati
 The dataset named 'Online Retail II' includes online sales transactions of a UK-based retail company between 01/12/2009 and 09/12/2011. The product catalog of the company includes gift items, and it's known that most of its customers are wholesalers.
 
 ### Variables:
-InvoiceNo: Invoice number (If this code starts with 'C', it indicates that the transaction was canceled)
-StockCode: Product code (Unique for each product)
-Description: Product name
-Quantity: Quantity of the product sold in each transaction
-InvoiceDate: Invoice date
-UnitPrice: Unit price of the product in the invoice (in GBP - British Pounds)
-CustomerID: Unique customer number
-Country: Country name
+- InvoiceNo: Invoice number (If this code starts with 'C', it indicates that the transaction was canceled)
+- StockCode: Product code (Unique for each product)
+- Description: Product name
+- Quantity: Quantity of the product sold in each transaction
+- InvoiceDate: Invoice date
+- UnitPrice: Unit price of the product in the invoice (in GBP - British Pounds)
+- CustomerID: Unique customer number
+- Country: Country name
