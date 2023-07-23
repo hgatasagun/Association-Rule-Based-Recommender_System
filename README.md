@@ -4,9 +4,9 @@
 
 Below are the basket information of 3 different users. Make product recommendations for these baskets using the association rule. The product recommendations can be one or more. Derive the decision rules based on the 2010-2011 Germany customers.
 
-User 1's basket contains product ID: 21987
-User 2's basket contains product ID: 23235
-User 3's basket contains product ID: 22747
+- User 1's basket contains product ID: 21987
+- User 2's basket contains product ID: 23235
+- User 3's basket contains product ID: 22747
 
 ## Dataset Story
 The dataset named 'Online Retail II' includes online sales transactions of a UK-based retail company between 01/12/2009 and 09/12/2011. The product catalog of the company includes gift items, and it's known that most of its customers are wholesalers.
